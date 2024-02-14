@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/drawable_image2.jpg.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/drawable/image2.jpg"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/drawable_platinum.png.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/drawable/platinum.png"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/drawable_diamond.jpeg.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/drawable/diamond.jpeg"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/drawable_iamge4.jpg.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/drawable/iamge4.jpg"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/layout_activity_registration.xml.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/layout/activity_registration.xml"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/mipmap-anydpi-v26_login_round.xml.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/mipmap-anydpi-v26/login_round.xml"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/drawable_login_foreground.xml.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/drawable/login_foreground.xml"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/drawable_gold.jpg.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/drawable/gold.jpg"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/mipmap-mdpi_login_round.webp.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/mipmap-mdpi/login_round.webp"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/mipmap-xxhdpi_login_round.webp.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/mipmap-xxhdpi/login_round.webp"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/mipmap-xhdpi_login_round.webp.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/mipmap-xhdpi/login_round.webp"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/mipmap-hdpi_login.webp.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/mipmap-hdpi/login.webp"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/menu_main_menu.xml.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/mipmap-xxxhdpi_login.webp.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/mipmap-xxxhdpi/login.webp"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/drawable_image3.jpg.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/drawable/image3.jpg"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/mipmap-mdpi_login.webp.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/mipmap-mdpi/login.webp"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/mipmap-hdpi_login_round.webp.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/mipmap-hdpi/login_round.webp"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/drawable_front1.jpg.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/drawable/front1.jpg"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/layout_activity_login.xml.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/drawable_image1.jpg.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/drawable/image1.jpg"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/mipmap-anydpi-v26_login.xml.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/mipmap-anydpi-v26/login.xml"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/mipmap-xxhdpi_login.webp.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/mipmap-xxhdpi/login.webp"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/drawable_silver.jpg.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/drawable/silver.jpg"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/drawable_rounded.xml.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/drawable/rounded.xml"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/mipmap-xxxhdpi_login_round.webp.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/mipmap-xxxhdpi/login_round.webp"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/mipmap-xhdpi_login.webp.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/mipmap-xhdpi/login.webp"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sunbeam.onlinejwelleryshopping.app-merged_res-32:/drawable_front.jpg.flat",
+        "source": "com.sunbeam.onlinejwelleryshopping.app-main-34:/drawable/front.jpg"
+    }
+]

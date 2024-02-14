@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738926170664",
+    "project_id": "onlinejwelleryshopping-34ed5",
+    "storage_bucket": "onlinejwelleryshopping-34ed5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738926170664:android:7a70e31eb1d9b43804db1d",
+        "android_client_info": {
+          "package_name": "com.sunbeam.onlinejwelleryshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738926170664-gluvu7451cnu7ri00oev0fc3b0b01a62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu7lRMgzszpnNZ1exMVTpNrrMYw_l2Pbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738926170664-gluvu7451cnu7ri00oev0fc3b0b01a62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
